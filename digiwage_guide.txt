@@ -79,7 +79,7 @@ you want to see ENABLED
 #first we will create a new user, we do not want to install as root
 #so let's create a user called digiwage1
 #it's going to ask you questions like room number, you can just hit enter for all those, all you really need to fill in 
-#is the new user password, do not lose this password either, you need both the root & saga1 password from now on
+#is the new user password, do not lose this password either, you need both the root & digiwage1 password from now on
 
 adduser digiwage1
 
